@@ -36,4 +36,4 @@ async def get(ctx):
         await ctx.send(response)
         time.sleep(305)
 
-bot.run("OTgwNjg4MjE5MjY1OTYyMDA0.GBnzfE.zOi9L1c-LqVG4tW7laJMIPtw0mtv2y25Hxpves", bot = False)
+bot.run("", bot = False)
